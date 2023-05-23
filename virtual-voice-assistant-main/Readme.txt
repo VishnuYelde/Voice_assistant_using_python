@@ -1,0 +1,13 @@
+What can alexa do?
+- tell us the current time
+- search on google, wikipedia
+- open apps like google, youtube, gmail, chrome, stackoverflow, notepad, calculator
+- predict weather in different cities
+- play music on youtube
+- get location of a place
+- answer personal questions like: who are u, who made u, how are u, etc
+- tell us news updates
+- capture a photo
+- tell us jokes
+- answer computational and geographical questions
+- shutdown the pc
